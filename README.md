@@ -15,7 +15,6 @@ A web app for managing all the activities of a library like managing members and
 - [Screenshots](#screenshots)
 - [References 💻](#references-)
 - [Author 📝](#author-)
-- [Connect Me On 🌍](#connect-me-on-)
 - [License 🏆](#license-)
 
 ## Features Of LCMS 🚀
@@ -83,12 +82,7 @@ A web app for managing all the activities of a library like managing members and
 
 ## Author 📝
 
-- [@iampranavdhar](https://www.github.com/iampranavdhar)
-
-## Connect Me On 🌍
-
-[![twitter badge](https://img.shields.io/badge/twitter-Pranavdhar-0077b5?style=social&logo=twitter)](https://twitter.com/iampranavdhar)<br/>
-[![linkedin badge](https://img.shields.io/badge/linkedin-Pranavdhar-0077b5?style=social&logo=linkedin)](https://in.linkedin.com/in/sai-pranavdhar-reddy-nalamalapu-038104206)
+- [@Amalanilkumar282](https://www.github.com/Amalanilkumaar282)
 
 ## License 🏆
 
