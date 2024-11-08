@@ -82,7 +82,7 @@ A web app for managing all the activities of a library like managing members and
 
 ## Author 📝
 
-- [@Amalanilkumar282](https://www.github.com/Amalanilkumaar282)
+- [@Amalanilkumar282](https://github.com/Amalanilkumar282)
 
 ## License 🏆
 
